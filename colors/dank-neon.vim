@@ -13,7 +13,7 @@ if version > 580
 endif
 
 set t_Co=256
-let g:colors_name="Dank Neon"
+let g:colors_name="dank-neon"
 
 hi Character       guifg=#AE81FF guibg=None guisp=None gui=None ctermfg=141 ctermbg=None cterm=None
 hi Comment         guifg=#A3A3A3 guibg=None guisp=None gui=italic ctermfg=247 ctermbg=None cterm= italic
