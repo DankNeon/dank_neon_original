@@ -1,0 +1,23 @@
+{
+    "name": "dank-neon",
+    "displayName": "Dank Neon",
+    "description": "A color scheme for lovers of neon",
+    "repository": "https://github.com/jpetrucciani/dank_neon",
+    "version": "0.0.1",
+    "publisher": "wuz",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dank Neon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dank Neon-color-theme.json"
+            }
+        ]
+    }
+}
