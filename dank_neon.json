@@ -1,0 +1,25 @@
+{
+  "name": "Dank Neon",
+  "author": "Jacoblin",
+  "color": [
+    "#000000",
+    "#f92672",
+    "#74fa44",
+    "#fd971f",
+    "#6699ef",
+    "#ae81ff",
+    "#4adbff",
+    "#bcc6d4",
+    "#33363a",
+    "#ff71a4",
+    "#b5ff9a",
+    "#fdc584",
+    "#a2bfef",
+    "#dac6ff",
+    "#aaeeff",
+    "#ffffff"
+  ],
+  "foreground": "#f0f0f0",
+  "background": "#282a2d"
+}
+

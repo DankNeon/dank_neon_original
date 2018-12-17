@@ -3,8 +3,8 @@
 
 export background="#282A2D"
 export foreground="#F0F0F0"
-export selection_background="#FFFFFF"
-export selection_foreground="#33363A"
+export selection_foreground="#FFFFFF"
+export selection_background="#33363A"
 
 export color0="#000000"
 #black
